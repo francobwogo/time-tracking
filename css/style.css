@@ -39,6 +39,7 @@ body {
   margin: auto;
   width: 100%;
   height: 100vh;
+  background-color: var(--clr-neutral-dark-blue);
 }
 
 main {
@@ -47,12 +48,9 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding: 100px 30px;
   gap: 30px;
   background-color: var(--clr-neutral-very-dark-blue);
-  padding-top: 100px;
-  padding-bottom: 100px;
 }
 
 .header,
