@@ -71,7 +71,7 @@ function myFunction(value='weekly') {
       timeframes.setAttribute("class", "timeframes");
       current.setAttribute("class", "current");
       previous.setAttribute("class", "previous");
-      img.setAttribute("id", "icon-ellipses");
+      img.setAttribute("class", "icons");
       img.src = "./images/icon-ellipsis.svg";
       img.alt = "icon-ellipses";
 
