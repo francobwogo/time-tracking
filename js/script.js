@@ -11,7 +11,7 @@ function myFunction(value='weekly') {
   }
 
   // Fetch data
-  fetch("../data.json")
+  fetch("./data/data.json")
   .then((response) => {
     return response.json();
   })
