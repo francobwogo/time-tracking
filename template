@@ -1,0 +1,13 @@
+<div class="card">
+    <div class="wrapper">
+        <div class="activity">
+            <div class="title">Work</div>
+            <div class="icon-ellipses"><img src="./images/icon-ellipsis.svg" alt="icon-ellipses" id="icon-ellipses">
+            </div>
+        </div>
+        <div class="timeframes">
+            <div class="current">00hrs</div>
+            <div class="previous">Last week - 20hrs</div>
+        </div>
+    </div>
+</div>
